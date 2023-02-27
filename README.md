@@ -30,6 +30,8 @@ if you dont know how to import private keys <s>thats not my issue</s> you should
 
 ![image](https://user-images.githubusercontent.com/91802844/221505390-ac7e1ee1-0f17-446b-a3d6-cecf80a08593.png)
 
+4b. open your text file
+
 5. click next and revel in your almost certainly empty wallet
 
 6. cry
