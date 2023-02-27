@@ -3,6 +3,8 @@ import codecs  #If not installed: "pip3 install codecs"
 import hashlib
 import os
 import sys
+text = "ENTER TEXT FILE PATH"
+py = "ENTER PYTHON FILE PATH"
 def generate_private_key():
   return secrets.token_hex(32)
 private_key = generate_private_key()
@@ -32,7 +34,7 @@ def base58(address_hex):
     return b58_string
 
 WIF = base58(PK4)
-with open("YOURTEXTFILELOC", "a") as mf:
+with open(text, "a") as mf:
   mf.write(WIF)
   mf.write("\n")
-os.system('python ""YOURPYTHONFILELOC""')
+os.system(py)
