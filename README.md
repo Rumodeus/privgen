@@ -11,7 +11,7 @@ add your file locations in the file before running
 ![image](https://user-images.githubusercontent.com/91802844/221621142-7876e768-7fee-408f-b34d-bdf8aea378d4.png)
 
 
-![image](https://user-images.githubusercontent.com/91802844/221504342-1daf9af3-0230-44ea-a7c0-7d4442876478.png)
+![image](https://user-images.githubusercontent.com/91802844/221621921-e9de8c4f-d1b0-4b65-8e28-b627a307022f.png)
 
 example of it working
 
