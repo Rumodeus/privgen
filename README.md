@@ -26,13 +26,13 @@ if you dont know how to import private keys <s>thats not my issue</s> you should
 
 ![image](https://user-images.githubusercontent.com/91802844/221505296-fd01026e-a50e-4261-a3ff-31f998992f35.png)
 
-4. click the three dots and then "Open File"
+4. click the three dots and then "Read File"
 
 ![image](https://user-images.githubusercontent.com/91802844/221505390-ac7e1ee1-0f17-446b-a3d6-cecf80a08593.png)
 
 4 part 2: electric boogaloo. open your text file
 
-4 part 3: im going to shoot your knee. add a password if you want or click next
+4 part 3: im going to shoot your knee. add a password if you want and click next
 
 
 5. click next and revel in your almost certainly empty wallet
