@@ -32,6 +32,8 @@ if you dont know how to import private keys <s>thats not my issue</s> you should
 
 4 part 2: electric boogaloo. open your text file
 
+4 part 3: im going to shoot your knee. add a password if you want or click next
+
 
 5. click next and revel in your almost certainly empty wallet
 
