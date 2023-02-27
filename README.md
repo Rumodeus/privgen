@@ -1,6 +1,7 @@
 # privgen
 basic valid bitcoin WIF private address generator
 <h1>THESE KEYS WILL ALMOST CERTAINLY BE EMPTY</h1>
+<h2> this is almost certainly the most inefficient way to do this, but its just as a test of skill</h2>
 im not responsible for what you do with this
 
 add your file locations in the file before running
